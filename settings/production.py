@@ -1,4 +1,4 @@
-from .base import *
+rom .base import *
 
 DEBUG = False
 
